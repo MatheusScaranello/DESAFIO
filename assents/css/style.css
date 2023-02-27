@@ -20,3 +20,7 @@ border: initial;
 #email:focus{ outline: 0cm;}
 
 #nome:focus{ outline: 0cm;}
+
+#senha{ border: hidden;margin-bottom: 10px;}
+
+#senha:focus{ outline: 0cm;}
