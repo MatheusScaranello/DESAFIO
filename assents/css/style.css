@@ -13,10 +13,10 @@ border: initial;
 }
 #button:hover{ background-color: black;}
 
-#nome{ border: hidden;}
+#nome{ border: hidden; margin-bottom: 10px;}
 
-#email{ border: hidden;}
+#email{ border: hidden;margin-bottom: 10px;}
 
-#email:hover{ outline: 0; }
+#email:focus{ outline: 0cm;}
 
-#nome:hover{ outline: 0;}
+#nome:focus{ outline: 0cm;}
