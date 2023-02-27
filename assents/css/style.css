@@ -13,3 +13,10 @@ border: initial;
 }
 #button:hover{ background-color: black;}
 
+#nome{ border: hidden;}
+
+#email{ border: hidden;}
+
+#email:hover{ outline: 0; }
+
+#nome:hover{ outline: 0;}
